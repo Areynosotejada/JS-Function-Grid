@@ -1,1 +1,20 @@
 //Write your function calls below this line
+/*
+setColor(2,6, "Black")
+setColor(2,3, "Black")
+setColor(5,6,"Red")
+setColor(6,6,"Red")
+setColor(6,5,"Red")
+setColor(6,4,"Red")
+setColor(6,3,"Red")
+setColor(5,3,"Red")
+setColor(2,7,"purple")
+setColor(1,6,"Purple")
+setColor(1,3,"purple")
+setColor(2,2,"Purple")
+*/
+setColor(2,6, "Black")
+setColor(1,5, "Black")
+setColor(1,4, "Black")
+setColor(2,3, "Black")
+setColor(3,3, "Black")
